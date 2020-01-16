@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">reroad</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nav_header_title">ReRoad</string>
+    <string name="nav_header_subtitle">Repairing Road</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_pengaduan">Pengaduan</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
